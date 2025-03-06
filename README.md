@@ -14,11 +14,12 @@ This project automates the ETL (Extract, Transform, Load) process by importing E
 1. Clone the repository:
    git clone https://github.com/inthatku2023/ETL-pipeline.git
 
-2. Setup virtual environment
+2. Setup virtual environment:
   python -m venv .venv
-  .venv\Scripts\activate 
 
-3. Install dependencies:
+    .venv\Scripts\activate 
+
+4. Install dependencies:
   pip install -r requirements.txt
 
 
