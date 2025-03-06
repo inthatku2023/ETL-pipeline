@@ -16,8 +16,9 @@ This project automates the ETL (Extract, Transform, Load) process by importing E
 
 2. Setup virtual environment
   python -m venv .venv
-  source .venv/bin/activate  # Mac/Linux
-  .venv\Scripts\activate  # Windows
+  .venv\Scripts\activate 
 
 3. Install dependencies:
   pip install -r requirements.txt
+
+
