@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+pyodbc
+openpyxl
+psycopg2
+logging
+os
